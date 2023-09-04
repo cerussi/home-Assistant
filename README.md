@@ -1,2 +1,2 @@
-# ha
-Home Assistant Dev
+# Home Assistant
+Home Assistant
